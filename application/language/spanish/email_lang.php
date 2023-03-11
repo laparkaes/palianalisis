@@ -1,0 +1,50 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+/* used in email_lib */
+$lang['access'] = 'Acceso';
+$lang['account'] = "Usuario";
+$lang['amount'] = 'Monto';
+$lang['date'] = 'Fecha';
+$lang['sincerely'] = 'Atentamente,';
+$lang['start_date'] = 'Fecha de Inicio';
+$lang['go_pali'] = "Ir a PALI Análisis";
+$lang['good_luck_msg'] = '¡Deseamos mucho éxito con su inversión!';
+$lang['monthly_charge'] = 'Cargo Mensual';
+$lang['name'] = "Nombre";
+$lang['next_payment'] = 'Siguiente Pago';
+$lang['payment_detail'] = 'Detalle de Pago';
+$lang['reset_password'] = "Reestablecer Contraseña";
+$lang['solve_problem'] = 'Resolver Problema';
+$lang['subscription_detail'] = 'Detalle de Suscripción';
+$lang['title'] = 'PALI Análisis';
+$lang['transaction_number'] = 'Número del Transacción';
+$lang['validate_email'] = 'Validar Correo';
+$lang['expiration'] = 'Expiración';
+
+$lang['subject_account_validation'] = 'Validación de usuario';
+$lang['subject_reset_pass'] = 'Restablecimiento de contraseña';
+$lang['subject_reset_pass_confirm'] = 'Nueva contraseña';
+$lang['subject_subscription_new'] = 'Confirmación de suscripción';
+$lang['subject_subscription_new_gift'] = 'Usted ha recibido suscripción de regalo';
+$lang['subject_subscription_new_week'] = 'Confirmación de suscripción de prueba';
+$lang['subject_subscription_cancel'] = 'Cancelación de suscripción';
+$lang['subject_subscription_payment'] = 'Confirmación del Pago';
+$lang['subject_subscription_payment_fail'] = 'Ocurrió error al procesar pago mensual de suscripción';
+
+$lang['account_validation_1'] = '¡Gracias por ser parte de PALI Análisis! Lo único que falta hacer es validar su correo electrónico y estará listo para empezar análisis técnico del mercado con nosotros.';
+$lang['account_validation_2'] = 'Asegure que esta validación se realiza con el último correo electrónico que nosotros enviamos debido a que cada comunicación cuenta con un solo código identificador.';
+$lang['reset_pass_1'] = 'Recibimos una solicitud de actualización de su contraseña. Presione botón para cambiar su contraseña y recibir por correo electrónico.';
+$lang['reset_pass_2'] = 'En caso que no ha sido su petición, omitir esta comunicación.';
+$lang['reset_pass_confirm_1'] = 'Ahora usted puede ingresar con la contraseña que nosotros generamos automáticamente. También recordamos que usted puede cambiarla cualquier momento accediendo al "Area de Clientes > Mi Cuenta" por su seguridad.';
+$lang['subscription_new_1'] = '¡Gracias por elegir a PALI Análisis!';
+$lang['subscription_new_2'] = 'Recordamos que siempre es bueno analizar variación de precio con varios indicadores estadísticos para mejor toma de decisiones.';
+$lang['subscription_new_gift_1'] = '¡PALI Análisis le regalamos suscripción!';
+$lang['subscription_new_gift_2'] = 'Recordamos que siempre es bueno analizar variación de precio con varios indicadores estadísticos para mejor toma de decisiones.';
+$lang['subscription_new_week_1'] = '¡Gracias por elegir a PALI Análisis!';
+$lang['subscription_new_week_2'] = 'Recordamos que siempre es bueno analizar variación de precio con varios indicadores estadísticos para mejor toma de decisiones.';
+$lang['subscription_cancel_1'] = 'Confirmamos la cancelación de suscripción.';
+$lang['subscription_cancel_2'] = 'Su acceso avanzado será disponible hasta la fecha de expiración.';
+$lang['subscription_cancel_3'] = '¡Deseamos contar nuevamente con usted pronto!';
+$lang['subscription_payment_1'] = 'El pago mensual de suscripción ha sido efectuado con siguiente detalle:';
+$lang['subscription_payment_fail_1'] = 'Le informamos que ocurrió error al procesar pago mensual de su suscripción por motivo de método de pago. Este problema puede ser resuelto ingresando al link siguiente:';
+$lang['subscription_payment_fail_2'] = 'En caso que no desee continuar con nuestros servicios, usted puede omitir esta comunicación para proceder con la anulación automática.';

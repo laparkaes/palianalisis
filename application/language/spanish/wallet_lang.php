@@ -1,0 +1,28 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['active'] = 'Activos';
+$lang['add'] = 'Agregar';
+$lang['all'] = 'Todos';
+$lang['american_dollar'] = "Dólar Americano";
+$lang['balance'] = 'Balance';
+$lang['buy'] = 'Compra';
+$lang['cancel'] = 'Cancelar';
+$lang['company'] = 'Empresa';
+$lang['date'] = 'Fecha';
+$lang['income'] = 'Ingreso';
+$lang['investment'] = 'Inversión';
+$lang['mnemonic'] = 'Nemónico';
+$lang['my_stocks_text'] = 'Si vendiera todas las acciones a sus últimos precios.';
+$lang['no_operations'] = 'No hay operaciones registradas.';
+$lang['operation'] = 'Operación';
+$lang['operations'] = 'Operaciones';
+$lang['peruvian_sol'] = "Sol Peruano";
+$lang['progress'] = 'Progresos';
+$lang['quantity'] = 'Cantidad';
+$lang['remove'] = 'Eliminar';
+$lang['resume_text'] = 'Valor total de mis acciones basadas en sus últimos precios en cada moneda';
+$lang['sell'] = 'Venta';
+$lang['unit_price'] = 'Precio Unitario';
+$lang['type'] = 'Tipo';
+$lang['value'] = 'Valor';
+$lang['wallet'] = 'Cartera';

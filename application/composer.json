@@ -1,0 +1,6 @@
+{
+    "require": {
+        "lupecode/php-trader-native": "^1.2",
+        "mercadopago/dx-php": "2.4.9"
+    }
+}
