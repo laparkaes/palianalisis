@@ -23,7 +23,7 @@
 	<link rel="stylesheet" href="/utility/css/tmp_b_setting.css">
 	<link rel="stylesheet" href="/utility/css/pali.css">
 </head>
-<body>qq
+<body>
     <div id="preloader">
         <div class="sk-three-bounce">
             <div class="sk-child sk-bounce1"></div>
